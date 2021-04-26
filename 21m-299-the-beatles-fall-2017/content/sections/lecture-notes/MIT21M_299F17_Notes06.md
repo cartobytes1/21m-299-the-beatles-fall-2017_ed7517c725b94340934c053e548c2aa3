@@ -1,0 +1,12 @@
+---
+course_id: 21m-299-the-beatles-fall-2017
+description: ''
+file_location: /coursemedia/21m-299-the-beatles-fall-2017/a55bfd8ca8caabadfce6d9776fde6f35_MIT21M_299F17_Notes06.pdf
+file_type: application/pdf
+layout: pdf
+title: 'Week III - Notes 6: A Hard Day''s Night - 21M.299 Fall 2017'
+type: course
+uid: a55bfd8ca8caabadfce6d9776fde6f35
+
+---
+None
